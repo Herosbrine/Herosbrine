@@ -21,7 +21,7 @@ I'm a self-taught passionate Python developer from France
 
 **About me**
 
-- 💼 Python Engineer at [LEDGER](https://www.ledger.com/)
+- 💼 Python Engineer and Brand Protection & Investigation at [LEDGER](https://www.ledger.com/)
 
 - 📈 Built Python bot with Selenium
 
