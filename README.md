@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+I'm a self-taught passionate Python developer from France
 
 **About me**
 
