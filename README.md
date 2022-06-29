@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?username=Herosbrine&color=green)
+<br> </br>
 <p align="center"><a href="https://Herosbrine.github.io"><img width="80%" alt="Hello, I'm Grégoire. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
@@ -29,12 +31,7 @@ I'm a self-taught passionate Python developer from France
 
 - 💬 Ask me about anything [here](https://github.com/Herosbrine/Herosbrine/issues)
 <br> </br>
-![](https://komarev.com/ghpvc/?username=Herosbrine&color=green)
-[![wakatime](https://wakatime.com/badge/user/f3c6deaa-9d45-412f-abc7-e4ede18a771a.svg)](https://wakatime.com/@f3c6deaa-9d45-412f-abc7-e4ede18a771a)
-<br> </br>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-
 | <a href="https://github.com/Herosbrine/Herosbrine"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Herosbrine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Herosbrine/Herosbrine"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herosbrine&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
