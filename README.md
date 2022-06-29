@@ -42,6 +42,7 @@ I'm a self-taught passionate Python developer from France
 #### Top Repositories
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Herosbrine/AUTOtradingMATE)
 <a href="https://github.com/Herosbrine/AUTOtradingMATE">
   <img align="center" src="https://github.com/Herosbrine/AUTOtradingMATE" />
 </a>
