@@ -38,24 +38,3 @@ I'm a self-taught passionate Python developer from France
 
 | <a href="https://github.com/Herosbrine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Herosbrine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Herosbrine/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herosbrine&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-[![Readme Card](https://github.com/Herosbrine/AUTOtradingMATE/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/Herosbrine/AUTOtradingMATE)
-<a href="https://github.com/Herosbrine/AUTOtradingMATE">
-  <img align="center" src="https://github.com/Herosbrine/AUTOtradingMATE" />
-</a>
-<a href="https://github.com/Herosbrine/Herosbrine.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Herosbrine.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/Herosbrine/Herosbrine/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/Herosbrine">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/Herosbrine/Herosbrine/master/assets/codesandbox.svg" />
-</a>
