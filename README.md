@@ -28,10 +28,10 @@ I'm a self-taught passionate Python developer from France
 - ❤️ I love writing Python script, and having fun with Selenium, and scrapping tools
 
 - 💬 Ask me about anything [here](https://github.com/Herosbrine/Herosbrine/issues)
-<br />
+<br> </br>
 ![](https://komarev.com/ghpvc/?username=Herosbrine&color=green)
 [![wakatime](https://wakatime.com/badge/user/f3c6deaa-9d45-412f-abc7-e4ede18a771a.svg)](https://wakatime.com/@f3c6deaa-9d45-412f-abc7-e4ede18a771a)
-<br />
+<br> </br>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
