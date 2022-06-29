@@ -43,10 +43,10 @@ I'm a self-taught passionate Python developer from France
 
 
 <a href="https://github.com/Herosbrine/AUTOtradingMATE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herosbrine&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/Herosbrine/Herosbrine.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Herosbrine&repo=Herosbrine.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Herosbrine.github.io&theme=buefy" />
 </a>
 
 <br />
