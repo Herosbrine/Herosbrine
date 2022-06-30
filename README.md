@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=Herosbrine&color=green)
-[![wakatime](https://wakatime.com/badge/user/@c4d0f476-c093-45c5-9731-1efb49fb4033.svg)](https://wakatime.com/@c4d0f476-c093-45c5-9731-1efb49fb4033)
+[![wakatime](https://wakatime.com/badge/user/c4d0f476-c093-45c5-9731-1efb49fb4033.svg)](https://wakatime.com/@c4d0f476-c093-45c5-9731-1efb49fb4033)
 
 
 
