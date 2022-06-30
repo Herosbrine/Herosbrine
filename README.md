@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=Herosbrine&color=green)
-[![wakatime](https://wakatime.com/badge/user/f3c6deaa-9d45-412f-abc7-e4ede18a771a.svg)](https://wakatime.com/@c4d0f476-c093-45c5-9731-1efb49fb4033)
+[![wakatime](https://wakatime.com/badge/user/c4d0f476-c093-45c5-9731-1efb49fb4033.svg)](https://wakatime.com/@c4d0f476-c093-45c5-9731-1efb49fb4033)
 <br> </br>
 <p align="center"><a href="https://Herosbrine.github.io"><img width="80%" alt="Hello, I'm Grégoire. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
