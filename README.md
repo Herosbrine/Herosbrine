@@ -19,12 +19,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Grégoire's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.linkedin.com/in/gr%C3%A9goire-b%C3%A9zier-58ba59198/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Grégoire's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<script src="http://www.malt.io/static/scripts/embed.js"></script>
-<div class="maltio-recipe" data-recipe="white-house-honey-ale" data-user="beziergregoire" style="float: left; margin-right: 1em;"></div>
-<div class="maltio-recipe" data-recipe="monk-s-tripel" data-user="beziergregoire" style="float: left;"></div>
-
+<p>Website : </p><a href="https://www.malt.fr/profile/beziergregoire">
 <p align="center"><a href="https://Herosbrine.github.io"><img width="80%" alt="Hello, I'm Grégoire. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
