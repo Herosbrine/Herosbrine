@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/gr%C3%A9goire-b%C3%A9zier-58ba59198/">
   <img align="left" alt="Grégoire's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a  <p>Website : https://www.malt.fr/profile/beziergregoire"</p>>
+<a  <p>Website : https://www.malt.fr/profile/beziergregoire </p>>
 <p align="center"><a href="https://Herosbrine.github.io"><img width="80%" alt="Hello, I'm Grégoire. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
