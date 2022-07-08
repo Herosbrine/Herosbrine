@@ -37,6 +37,11 @@ I'm a self-taught passionate Python developer from France
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
+<a href="https://trackgit.com">
+<img style="visibility:hidden" src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/l3liehrqx15grnsyatl3" alt="trackgit-views" />
+</a>
+<h3 align="left">Support:</h3>
+<p><a href="https://ko-fi.com/beziergregoire"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="beziergregoire" /></a></p><br><br>
 
 
 | <a href="https://github.com/Herosbrine/Herosbrine"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Herosbrine&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Herosbrine/Herosbrine"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herosbrine&layout=compact&theme=buefy&hide_border=true" /></a> |
