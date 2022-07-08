@@ -32,7 +32,7 @@ I'm a self-taught passionate Python developer from France
 **About me**
 
 - 💼 Python Engineer and Brand Protection & Investigation at [LEDGER](https://www.ledger.com/)
-- 💼 any freelance work? do reach, [email](mailto:beziergregoire@gmail.com) :)
+- 💼 any freelance work? send me an [email](mailto:beziergregoire@gmail.com) :)
 
 - 📈 Built Python bot with Selenium
 
