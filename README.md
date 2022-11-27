@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=Herosbrine&color=green)
 [![wakatime](https://wakatime.com/badge/user/c4d0f476-c093-45c5-9731-1efb49fb4033.svg)](https://wakatime.com/@c4d0f476-c093-45c5-9731-1efb49fb4033)
-<a href="https://discord.gg/uQR9VzYP">
-  <img align="left" alt="Grégoire's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://www.linkedin.com/in/gr%C3%A9goire-b%C3%A9zier-58ba59198/">
   <img align="left" alt="Grégoire's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -25,6 +22,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Grégoire's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
+<!--<a href="https://discord.gg/uQR9VzYP">
+  <img align="left" alt="Grégoire's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>-->
 <p align="center"><a href="https://Herosbrine.github.io"><img width="80%" alt="Hello, I'm Grégoire. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
