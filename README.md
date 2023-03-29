@@ -37,7 +37,7 @@ I'm a self-taught passionate Python developer from France
 - 💼 any freelance work? send me an [email](mailto:beziergregoire@gmail.com) :)
 <p>Freelance Website : https://www.malt.fr/profile/beziergregoire </p>
 
-- 📈 Built Python bot with Selenium
+- 📈 Build Python bots with Selenium
 
 - ❤️ I love writing Python script, and having fun with Selenium, and scrapping tools
 
