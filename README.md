@@ -51,5 +51,5 @@ I'm a self-taught passionate Python developer from France
 <p><a href="https://ko-fi.com/beziergregoire"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="beziergregoire" /></a></p><br><br>
 
 
-| <a href="https://github.com/gregoirebezier/gregoirebezier"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gregoirebezier&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/gregoirebezier/gregoirebezier"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoirebezier&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/gregoirebezier/gregoirebezier"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gregoirebezier&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Grégoire's github stats" /></a> | <a href="https://github.com/gregoirebezier/gregoirebezier"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoirebezier&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
