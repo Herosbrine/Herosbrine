@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=gregoirebezier&color=green)
 [![wakatime](https://wakatime.com/badge/user/c4d0f476-c093-45c5-9731-1efb49fb4033.svg)](https://wakatime.com/@c4d0f476-c093-45c5-9731-1efb49fb4033)
 <a href="https://www.linkedin.com/in/gr%C3%A9goire-b%C3%A9zier-58ba59198/">
-  <img align="left" alt="Grégoire's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Grégoire's LinkedIN" width="22px" src="https://cdn.simpleicons.org/linkedin" />
 </a>
 <a href="https://www.youtube.com/@beziergregoire">
-  <img align="left" alt="Grégoire's Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Grégoire's Youtube" width="22px" src="https://cdn.simpleicons.org/youtube" />
 </a>
 
 <!--<a href="https://discord.gg/uQR9VzYP">
